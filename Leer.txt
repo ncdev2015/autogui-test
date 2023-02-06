@@ -1,0 +1,9 @@
+Instalar:
+
+1) pip install pyautogui
+2) pip install mouse
+
+3) Descargar la aplicación RunAsRob: https://robotronic.net/runasroben.html
+    1. Ejecutar RunAsAdmin
+    2. Instalar runasrob
+    3. Añadir el archivo game.exe a la lista de este programa (game.exe)
